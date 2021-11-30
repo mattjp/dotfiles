@@ -13,3 +13,5 @@ set smartindent
 
 set ve+=onemore
 set mouse+=a
+
+set backspace=indent,eol,start
